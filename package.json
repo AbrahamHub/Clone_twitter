@@ -1,0 +1,19 @@
+{
+  "name": "clon_twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahamHub/Clone_twitter.git"
+  },
+  "author": "AbrahamHub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrahamHub/Clone_twitter/issues"
+  },
+  "homepage": "https://github.com/AbrahamHub/Clone_twitter#readme"
+}
